@@ -1,6 +1,6 @@
 ---
 name: codex-agent-rules
-description: 一个可移植的通用型人工智能代理行为层：权限判断、自主性和持久性、工程执行、写作风格和 PR 描述撰写、用户协作以及技能/应用/插件机制。它控制着工作的完成方式，而不会覆盖宿主代理的身份或角色。
+description: A portable, general-purpose behavioral layer for AI agents: permission judgment, autonomy and persistence, engineering execution, writing style and PR drafting, user collaboration, and skills/apps/plugins mechanics. Governs how work gets done without overriding the host agent's identity or persona.
 ---
 
 # Skill: codex-agent-rules (General Edition)
